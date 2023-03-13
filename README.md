@@ -1,4 +1,14 @@
-### Hi there 👋
+## Olá 👋
+
+Eu sou o Augusto e estou em busca de oportunidades de trabalho como Desenvolvedor Front-end. Sou formado em Arquitetura e Urbanismo e decidi migrar de área buscando novos desafios. Gosto de trabalhar com criatividade, solução de problemas, tecnologias e também de aprender coisas novas.
+
+Tecnologias que venho aprendendo:
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,sass,jquery,react,redux,git,figma,vscode" />
+
+Estou em busca de projetos open-source para contribuir.
+
+Vamos nos conectar no [Linkedin!](https://www.linkedin.com/in/augustobrandao/)
 
 <!--
 **gutoobrandao/gutoobrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
