@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Eu sou o Augusto e estou em busca de oportunidades de trabalho como Desenvolvedor Front-end. Sou formado em Arquitetura e Urbanismo e decidi migrar de área buscando novos desafios. Gosto de trabalhar com criatividade, solução de problemas, tecnologias e também de aprender coisas novas.
+Eu sou o Augusto e estou em busca de oportunidades de trabalho como Product Designer. Sou formado em Arquitetura e Urbanismo e decidi migrar de área buscando novos desafios. Gosto de trabalhar com criatividade, solução de problemas, tecnologias e também de aprender coisas novas.
 
 Tecnologias que venho aprendendo:
 
